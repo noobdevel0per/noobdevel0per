@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment,Graphics Designing
 - 💖 I love creating New UX/UI concepts
 - 🌱 I’m currently learning MERN Stack!
-- 💞️ I’m looking to collaborate on NOTHING!
+- 💞️ I’m looking for some good opportunities to forw for/with!
 - 📫 salilchauhdary18@gmail.com
 
 
