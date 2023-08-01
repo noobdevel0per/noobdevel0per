@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noobdevel0per
-- 👀 I’m interested in Web Devlopment,Graphics Designing
+- 👀 I’m interested in Web Development, Graphics Designing
 - 💖 I love creating New UX/UI concepts
-- 🌱 Technical specialities- MEAN Stack , Java Script, java, AWS
+- 🌱 Technical specialties- MEAN Stack , Java Script, java, AWS
 - 💞️ I’m looking for some good opportunities to work for/with!
 - 📫 salilchaudhary18@gmail.com
 
